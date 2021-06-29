@@ -12,7 +12,7 @@ Creamos un entorno con python 3.7, e instalamos las dependencias necesarias.
 
     $   conda create -n ApiCrop
     $   conda activate ApiCrop
-    $   pip install python=3.7
+    $   conda install python=3.7
     $   pip install -r requirements.txt
     $   streamlit run app.py
     
